@@ -1,5 +1,11 @@
 # MarkovAssetModel
 
+O Modelo de Markov é um algoritmo matemático utilizado para modelar sistemas que mudam de estado ao longo do tempo, onde a probabilidade do próximo estado depende apenas do estado atual — e não de eventos passados.
+Esse princípio é conhecido como Propriedade de Markov.
+
+Em termos simples:
+“O futuro depende apenas do presente, não do passado.”
+
 ```php
 
 require 'MarkovAssetModel.php';
